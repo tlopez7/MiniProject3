@@ -1,7 +1,5 @@
 # Disagreement Examples — tlopez7 & jmurph91
 
-Discussion between tlopez7 and jmurph91 (Jackson Murphy), held 2026-10-19 over text message. Between the two validation logs there were 100 records; 22 disagreed before discussion (15 in tlopez7's review of jmurph91's projects, 7 in jmurph91's review of tlopez7's projects). All 22 were resolved, and both parties agreed with every adjudicated value.
-
 ## Example 1 — samreay_chainconsumer (WhyRecovered)
 **Owner / Validator:** jmurph91 / tlopez7
 **Author:** Development resumed with bug fixes and package maintenance.
