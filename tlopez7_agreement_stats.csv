@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;60.0;100.0;0.31;1.00;8;8;NA;"Most disagreements were qualified labels (Partially, Barely, Yes briefly) where the coding guide requires binary yes/no; also whether a 1-month gap counts as a gap (threshold is 3 months)."
+WhyRecovered;75.0;100.0;NA;NA;5;5;NA;"Author values often restated that activity resumed without naming the trigger; resolved by citing the first post-gap commits (rewrite, build-system revival, release cycle)."
+ActivityPattern;85.0;100.0;0.78;1.00;3;3;NA;"Irregular/cyclical vs declining; resolved by comparing yearly commit totals, which showed sustained long-term decline."
+Currentstatus;100.0;100.0;1.00;1.00;0;0;NA;Mechanical rule (last commit on/after 2025-04-01) left no room for disagreement.
+RecentThemes;70.0;100.0;NA;NA;6;6;NA;"Unlabeled merge commits were coded as Other and outranked real themes; one validator compared against the author file rather than the actual latest 10 commits."
