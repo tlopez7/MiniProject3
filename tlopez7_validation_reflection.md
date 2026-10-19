@@ -1,4 +1,4 @@
-# Validation Reflection — tlopez7
+# Validation Reflection 
 
 I validated the ten MiniProject2 projects owned by jmurph91, and jmurph91 validated my ten. Across all 100 records the two of us agreed on 78 before discussion and on all 100 after. Agreement varied a lot by field. Currentstatus agreed 100% because it is a mechanical date rule. ActivityPattern agreed 85% (κ = 0.78), WhyRecovered 75%, RecentThemes 70%, and HasRecovered only 60% (κ = 0.31). The low HasRecovered score was mostly a coding problem, not a real difference in reading the data. In my own MP2 work I used qualified labels like "Partially", "Barely" and "Yes, briefly" even though the coding guide defines the field as strictly yes/no. Once we mapped those to the binary value, every HasRecovered disagreement on my projects went away.
 
